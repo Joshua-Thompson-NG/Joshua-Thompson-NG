@@ -7,12 +7,8 @@
 - 🔭 I am a Software Dev from Nigeria
 - 🌱 Learning everything about Python
 
-
-## 🛠 My Stack
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+## My Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 🌐 Connect with Me
 <div align="left">
