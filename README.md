@@ -8,7 +8,7 @@
 - 🌱 Learning everything about Python
 
 ## My Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,figma)](https://skillicons.dev)
 
 ## 🌐 Connect with Me
 <div align="left">
