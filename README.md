@@ -3,8 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=a855f7+&width=435&lines=Joshua+Thompson" alt="Typing SVG" /></a>
 
 
-[![My GitHub Stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
