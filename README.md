@@ -4,23 +4,25 @@
 
 
 ## 📖 About Me
-- 🔭 I am a Software Dev fron Nigeria
+- 🔭 I am a Software Dev from Nigeria
 - 🌱 Learning everything about Python
 
 
 ## 🛠 My Stack
- - Python
- - Html $ CSS
- - Javascript
- - 
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
 
-
-<div align="center">
+## 🌐 Connect with Me
+<div align="left">
   <a href="https://www.linkedin.com/in/oluwatomi-thompson/">
     <img src="https://shields.io" />
   </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://shields.io" />
+  </a>
 </div>
-
 
 
 
