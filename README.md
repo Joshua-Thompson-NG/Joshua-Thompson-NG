@@ -4,7 +4,7 @@
 
 
 ## 📖 About Me
-- 🔭 I am a Backend Dev from Nigeria
+- 🔭 I am an aspiring full-stack developer from Nigeria.
 
 ## My Main Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,figma,git,github)](https://skillicons.dev)
