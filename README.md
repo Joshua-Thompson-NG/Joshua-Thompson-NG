@@ -1,6 +1,6 @@
 ![snake github contribution](https://raw.githubusercontent.com/Joshua-Thompson-NG/Joshua-Thompson-NG/output/github-contribution-grid-snake.svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=a855f7&width=430&lines=Hi%2C+I'm+Joshua;Software+Engineering+Student;Learning+by+Building" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=a855f7&width=430&lines=Hi%2C+I'm+Joshua;Software+Engineering+Student" alt="Typing SVG" /></a>
 
 ## Hi, I'm Joshua 👋
 I’m a Software Engineering student at university, passionate about building practical solutions and learning how software works from idea to deployment. I’m still growing as a developer, exploring new technologies, and improving my skills through projects and real-world practice.
